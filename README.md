@@ -14,6 +14,7 @@
 
 
 ### 扩展知识篇
+<a href="http://web.jobbole.com/83761/" target="_blank">1、JavaScript 模块化历程</a>
 
 
 ## 网上搜集的各种面试资源

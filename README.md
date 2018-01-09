@@ -12,7 +12,7 @@
 ### 浏览器篇
 <a href="https://www.jianshu.com/p/a32b890c29b1" target="_blank">1、深度剖析浏览器渲染性能原理</a>
 
-< href="https://www.cnblogs.com/liangxuru/p/6970629.html" target="_blank">2、前端H5页面适配rem换算</a>
+<a href="https://www.cnblogs.com/liangxuru/p/6970629.html" target="_blank">2、前端H5页面适配rem换算</a>
 
 ### 扩展知识篇
 <a href="http://web.jobbole.com/83761/" target="_blank">1、JavaScript 模块化历程</a>

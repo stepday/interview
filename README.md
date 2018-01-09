@@ -14,6 +14,8 @@
 
 <a href="https://www.cnblogs.com/liangxuru/p/6970629.html" target="_blank">2、前端H5页面适配rem换算</a>
 
+<a href="https://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html" target="_blank">3、使用Flexible实现手淘H5页面的终端适配</a>
+
 ### 扩展知识篇
 <a href="http://web.jobbole.com/83761/" target="_blank">1、JavaScript 模块化历程</a>
 
